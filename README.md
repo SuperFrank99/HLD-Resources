@@ -15,7 +15,7 @@ Articles: <br />
 - Capital One Tech's - [10 microservices design patterns for better architecture](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e) <br />
 - [How to create good HLD by Ved Mulkalwar](https://medium.com/@vedmkw/how-to-create-a-good-high-level-design-hld-fddba7f6ae18)<br /><br />
 
-Obviously I did not cover everything from the above resources and I'm not planning to either. I just wanted to get my fundamentals strong and watched/read what I found to be fascinating. The most important thing I learnt while learning about system design is to dive deep into a concept and keep digging until you can answer the "Why", "When" and "How" of it, meaning -<br />
+Obviously I did not cover everything from the above resources and I'm not planning to either. I just wanted to get my fundamentals strong and watched/read what I found to be fascinating. The most important thing I learned while learning about system design is to dive deep into a concept and keep digging until you can answer the "Why", "When" and "How" of it, meaning -<br />
 - Why this component is being used.
 - When we should use it and not use it.
 - How it connects to other components of the system.
